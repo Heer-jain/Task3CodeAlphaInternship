@@ -1,0 +1,1 @@
+This hotel reservation system allows users to register and log in, with role-based access for users and admins. Users can view available rooms, book rooms, and view their bookings, while admins can manage rooms (add, update, delete, view) and view all bookings. The system also simulates payment processing during booking.
